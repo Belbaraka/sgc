@@ -3,7 +3,7 @@ We evaluate several models for the standard task of speaker gender classificatio
 
 #### How to run
 * Make sure to have the following libraries: `soundfile`, `python_speech_features`, `seaborn`, `tqdm`. Otherwise `pip install <library_name>` 
-* Open and run the jupyter notebook `sgc.ipynb` (*Run -> Run All Cells*). 
+* Open and run the jupyter notebook `sgc.ipynb` (*Run -> Run All Cells*, **running time ~ 7 min**) . 
 
 #### Content
 - **`LibriSpeach`** : folder which contains speech audio samples.
